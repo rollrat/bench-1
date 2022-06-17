@@ -20,7 +20,7 @@ else
 fi
 
 i=0
-while [ "$i" -lt 100 ]
+while [ "$i" -lt 50 ]
 do
     # echo $(hostname)
     LD_PRELOAD="./libusernet.so /usr/lib/x86_64-linux-gnu/libsyscall_intercept.so" ./client $host 8864 TCP_STREAM 5 >> test.stream.$HOSTNAME.${args[0]}.log
