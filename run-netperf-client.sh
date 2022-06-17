@@ -26,5 +26,6 @@ do
     LD_PRELOAD="./libusernet.so /usr/lib/x86_64-linux-gnu/libsyscall_intercept.so" ./client $host 8864 TCP_STREAM 5 >> test.stream.$HOSTNAME.${args[0]}.log
     LD_PRELOAD="./libusernet.so /usr/lib/x86_64-linux-gnu/libsyscall_intercept.so" ./client $host 8864 TCP_RR 5 >> test.rr.$HOSTNAME.${args[0]}.log
     
+    echo $i
     i=$(expr $i + 1)
 done
