@@ -15,8 +15,12 @@ fi
 host="Hello"
 if [ "$HOSTNAME" = "usernet-vm2-intel" ]; then
     host='192.168.1.101'
-else
+elif [ "$HOSTNAME" = "usernet-vm2-amd" ]; then
     host='192.168.10.101'
+elif [ "$HOSTNAME" = "usernet-vm2" ]; then
+    host='172.16.1.101'
+elif [ "$HOSTNAME" = "usernet-vm4" ]; then
+    host='172.16.1.103'
 fi
 
 i=0
