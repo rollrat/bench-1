@@ -1,0 +1,64 @@
+[1]   Hangup                  ./a.out
+[2]   Interrupt               ./a.out
+[3]   Quit                    (core dumped) ./a.out
+[4]   Illegal instruction     (core dumped) ./a.out
+[5]   Trace/breakpoint trap   (core dumped) ./a.out
+[6]   Aborted                 (core dumped) ./a.out
+[7]   Bus error               (core dumped) ./a.out
+[8]   Floating point exception(core dumped) ./a.out
+[9]   Killed                  ./a.out
+[10]   User defined signal 1   ./a.out
+[11]   Segmentation fault      (core dumped) ./a.out
+[12]   User defined signal 2   ./a.out
+[13]   Broken pipe             ./a.out
+[14]   Alarm clock             ./a.out
+[15]   Terminated              ./a.out
+[16]   Stack fault             ./a.out
+[17]   ??
+[18]   ??
+[19]   Stopped Sleep?
+[20]   Stopped Sleep?
+[21]   Stopped Sleep?
+[22]   Stopped Sleep?
+[23]   ??
+[24]   CPU time limit exceeded (core dumped) ./a.out
+[25]   File size limit exceeded(core dumped) ./a.out
+[26]   Virtual timer expired   ./a.out
+[27]   Profiling timer expired ./a.out
+[28]   ??
+[29]   ??
+[30]   CPU time limit exceeded (core dumped) ./a.out
+[31]   File size limit exceeded(core dumped) ./a.out
+[32]   Virtual timer expired   ./a.out
+[33]   Profiling timer expired ./a.out
+[34]   Real-time signal 0      ./a.out
+[35]   Real-time signal 1      ./a.out
+[36]   Real-time signal 2      ./a.out
+[37]   Real-time signal 3      ./a.out
+[38]   Real-time signal 4      ./a.out
+[39]   Real-time signal 5      ./a.out
+[40]   Real-time signal 6      ./a.out
+[41]   Real-time signal 7      ./a.out
+[42]   Real-time signal 8      ./a.out
+[43]   Real-time signal 9      ./a.out
+[44]   Real-time signal 10     ./a.out
+[45]   Real-time signal 11     ./a.out
+[46]   Real-time signal 12     ./a.out
+[47]   Real-time signal 13     ./a.out
+[48]   Real-time signal 14     ./a.out
+[49]   Real-time signal 15     ./a.out
+[50]   Real-time signal 16     ./a.out
+[51]   Real-time signal 17     ./a.out
+[52]   Real-time signal 18     ./a.out
+[53]   Real-time signal 19     ./a.out
+[54]   Real-time signal 20     ./a.out
+[55]   Real-time signal 21     ./a.out
+[56]   Real-time signal 22     ./a.out
+[57]   Real-time signal 23     ./a.out
+[58]   Real-time signal 24     ./a.out
+[59]   Real-time signal 25     ./a.out
+[60]   Real-time signal 26     ./a.out
+[61]   Real-time signal 27     ./a.out
+[62]   Real-time signal 28     ./a.out
+[63]   Real-time signal 29     ./a.out
+[64]   Real-time signal 30     ./a.out
