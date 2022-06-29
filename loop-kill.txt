@@ -15,7 +15,7 @@
 [15]   Terminated              ./a.out
 [16]   Stack fault             ./a.out
 [17]   ??
-[18]   ??
+[18]   SIGCHLD Awakeup Stopped Process
 [19]   Stopped Sleep?
 [20]   Stopped Sleep?
 [21]   Stopped Sleep?
